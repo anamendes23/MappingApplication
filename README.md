@@ -4,6 +4,6 @@ This project was built as part of the Coursera course "Advanced Data Structures 
 
 The mapping application is built with the ability to provide and visualize routes from one point to another in a map.
 
-![Mapping Application Screenshot](/sample.png)
+![Mapping Application Screenshot](/sample.PNG)
 
 Below you can find more details in how the data structure concepts were used to implemente those features.
