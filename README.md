@@ -7,3 +7,7 @@ The mapping application is built with the ability to provide and visualize route
 ![Mapping Application Screenshot](/sample.PNG)
 
 Below you can find more details in how the data structure concepts were used to implemente those features.
+
+##Graphs
+
+This will be the main data structure on this project, representing the relationship between basic objects (cities, points, etc) described by roads, flight routes, etc.
